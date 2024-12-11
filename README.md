@@ -12,11 +12,8 @@
  Positivo: "El número x es positivo"
  Negativo: "El número x es negativo"
  Cero (0): "El número x es el neutro para la suma"
-1.  Dado el centro y el radio de un círculo, determinar si un punto de R2 pertenece o no al interior del círculo.
+[![imagen-N5-reto-N4.png](https://i.postimg.cc/yYksb0DX/imagen-N5-reto-N4.png)](https://postimg.cc/RN5k36QN)
 
-1. Dadas tres longitudes positivas, determinar si con esas longitudes se puede construir un triángulo.
-
-1. Escriba un programa que reciba el nombre en minúsculas de un país de America y retorne la ciudad capital, si el país no pertenece al continente debe arrojar país no identificado (Utilice match-case).
 
 
 
